@@ -13,7 +13,7 @@ describe('Header', () => {
   it('renders the logo', () => {
     render(<HeaderWithRouter />)
     
-    expect(screen.getByText('OpenVibe Hello World')).toBeInTheDocument()
+    expect(screen.getByText('asdf-2')).toBeInTheDocument()
   })
 
   it('renders navigation links', () => {

@@ -37,19 +37,19 @@ function Contact() {
               <h2>Contact Information</h2>
               <div className="contact-item">
                 <h3>📧 Email</h3>
-                <p>hello@openvibe-hello-world.com</p>
+                <p>hello@asdf-2.com</p>
               </div>
               <div className="contact-item">
                 <h3>🐙 GitHub</h3>
-                <p>github.com/openvibe-hello-world</p>
+                <p>github.com/asdf-2</p>
               </div>
               <div className="contact-item">
                 <h3>🐦 Twitter</h3>
-                <p>@openvibe-hello-world</p>
+                <p>@asdf-2</p>
               </div>
               <div className="contact-item">
                 <h3>💼 LinkedIn</h3>
-                <p>linkedin.com/company/openvibe-hello-world</p>
+                <p>linkedin.com/company/asdf-2</p>
               </div>
             </div>
 

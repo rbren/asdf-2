@@ -1,7 +1,7 @@
-# OpenVibe Hello World
+# asdf-2
 
-[![CI](https://github.com/rbren/openvibe-hello-world/actions/workflows/ci.yml/badge.svg)](https://github.com/rbren/openvibe-hello-world/actions/workflows/ci.yml)
-[![Deploy](https://github.com/rbren/openvibe-hello-world/actions/workflows/deploy.yml/badge.svg)](https://github.com/rbren/openvibe-hello-world/actions/workflows/deploy.yml)
+[![CI](https://github.com/rbren/asdf-2/actions/workflows/ci.yml/badge.svg)](https://github.com/rbren/asdf-2/actions/workflows/ci.yml)
+[![Deploy](https://github.com/rbren/asdf-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/rbren/asdf-2/actions/workflows/deploy.yml)
 
 A basic React application built with Vite.
 
